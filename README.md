@@ -38,6 +38,10 @@ vision estimates, scaled from the data center by power.
 
 The bigger compute grows, the more it can give energy and water back instead of taking them.
 
+📍 The world is at level 2 of 5 today (▰▰▱▱▱). This repo plans level 4.
+
+This is the physical ladder: energy, water, chips. It lifts the intelligence ladder, from AI to conscious beings: [soulcraft.computer/vision/](https://soulcraft.computer/vision/)
+
 ## The plan
 
 Show how a data center can run on Earth's heat and return power and water to the grid around it. The open questions are in [docs/PLAN.md](docs/PLAN.md).
