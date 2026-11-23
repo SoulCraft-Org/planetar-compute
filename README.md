@@ -11,7 +11,7 @@ The second vision level of SoulCraft's compute ladder. AI compute that runs on E
 | Status | 💡 Concept |
 | Energy | Earth's heat (geothermal) |
 | Where | Where the heat is close to the surface |
-| Largest real thing today | Largest geothermal plant: 725 MW |
+| Largest real thing today | Largest geothermal complex, The Geysers: 725 MW ([Calpine](https://www.calpine.com/clean-and-reliable-power/our-assets/geothermal/), read 2026-11-23) |
 | License | Apache-2.0 |
 | Publisher | [SoulCraft](https://soulcraft.computer) |
 
